@@ -34,7 +34,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 @TestMethodOrder(OrderAnnotation.class)
 @SpringBootTest
-class TesteSimples {
+class TesteAPI {
 	
 	private RestTemplate restTemplate;
 	
